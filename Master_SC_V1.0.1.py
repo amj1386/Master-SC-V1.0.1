@@ -25,7 +25,8 @@ def welcome():
         print(f'       IRI | {now_if.strftime("%A")} | {now_if.strftime("%X")} | {x_if} (SH)\n')
     else:
         print(f'       ITN | {now2_els.strftime("%A")} | {now2_els.strftime("%X")} | {y_els.strftime("%x")} (AD)\n')
-
+        
+# ITN in up is same International
 
 def sections():
     user_selection = input('''which section do you want?
@@ -300,7 +301,7 @@ Please type One of the allowed operators below:
 welcome()
 sections()
 
-# Name Program: MASTER calculator
+# Name Program: Master Scientific Calculator V1.0.1
 # Status of UI: with no UI
 # Version: 1.0.1(CMD)
 # Publisher: ISW
