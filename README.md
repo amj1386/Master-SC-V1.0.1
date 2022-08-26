@@ -21,7 +21,6 @@ ISW Corporation™. all rights reserved 2022.
 # E-mail author: www.amirmahdijamali777@gmail.com
 # git hub author: https://github.com/amj1386?tab=projects&type=new
 # Source Status: Open source, subject to the following legal terms
-# More Info: https://zil.ink/master_sc_v1.0.1_isw_amj
 
 
 [Legal terms of source code editing]:
